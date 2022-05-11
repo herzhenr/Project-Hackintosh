@@ -56,17 +56,17 @@ The rest of the components is straight forward: A 750W PSU from Corsair, some AR
 
 # Building process
 
-![components](docs/build/components.JPG)
+![components](docs/build/components.jpg)
 
 The building process in most regards was straight forward and the same as any other miniITX build. The NR200 has plenty of space for an miniITX case so it is in general pretty easy to build in. But regarding the mainboard I had some serious problems.
 
 First of all, I needed to replace the Wifi/Bluetooth Card with one that is supported by macOS. In order to do this, you have to remove the glue underneath the plastic cover of the motherboard, remove some screws and then bend the IO shield in order to remove it. This part drove me crazy, It wasn't easy to get it off and then afterward get it back on again without breaking anything. There is a good documented guide [here](https://docs.google.com/document/d/1XeUu0YcV2JjsxzpEYQL7mAyqkdN7Q0TTLC6gSsfxzC4/edit) which shows how to do it.
 
-![heatsink](docs/build/heatsink.JPG)
+![heatsink](docs/build/heatsink.jpg)
 
 In the next step I installed both m.2 SSDs, the CPU and then the cooler. Another problem with this mainboard occured regarding the cooler clearance. Because of the bulky top VRM heatsink of the mainboard many coolers don't fit on this board. The cooler I selected just so slightly fitted when I filed some metal from it away. With the help of this little fix, everything now fits on the board and when I first saw it all assembled together I was quite impressed how small the board really is even when everything is mounted on top of it.
 
-![mainboard](docs/build/mainboard.JPG)
+![mainboard](docs/build/mainboard.jpg)
 
 ![case](docs/build/case_half_assembled.jpg)
 
